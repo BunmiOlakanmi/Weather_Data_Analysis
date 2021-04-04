@@ -52,7 +52,15 @@ After each plot, I added a sentence or two explaining what the code is and analy
 
 
 #### Instructions
-
-
+1. To run this code, ensure that all the above libraries are installed in your environment.
+2. Pull all the file and data from this GitHub repository.
+3. To see the visualization and analyses, run the WeatherPy.ipynb file in Jupyter notebook.
+4. The WeatherPy.ipynb notebook contains the observations and insights from the analyses.
 
 #### File Description
+1. The images folder contains the equatorsign.png used in the readme file.
+2. The starter_code folder contains the WeatherPy.ipynb and api_keys.py files.
+3. The WeatherPy.ipynb is a Jupyter notebook file that contains the Python code used to analyse the data.
+4. The api_keys.py is a Python file that contains the OpenWeather api key used to access the weather data on their website.
+5. The output_data folder contains all the figures (images) generated from the output of our analyses.
+
