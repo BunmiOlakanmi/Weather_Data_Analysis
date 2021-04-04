@@ -22,7 +22,10 @@ The objective is to build a series of scatter plots to showcase the following re
 * Temperature (F) vs. Latitude
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
-* Wind Speed (mph) vs. Latitude
+* Wind Speed (mph) vs. Latitude. Examples are shown below.
+
+![Uploading Screen Shot 2021-04-05 at 5.08.58 PM.png…]()
+
 
 It is expected that the final Jupyter notebook must:
 
@@ -44,4 +47,8 @@ After each plot, I added a sentence or two explaining what the code is and analy
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
+#### Instructions
 
+
+
+#### File Description
