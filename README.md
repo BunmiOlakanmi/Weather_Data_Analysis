@@ -23,8 +23,8 @@ The objective is to build a series of scatter plots to showcase the following re
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude. Examples are shown below.
-
-![Uploading Screen Shot 2021-04-05 at 5.08.58 PM.png…]()
+<img width="452" alt="Screen Shot 2021-04-05 at 5 08 58 PM" src="https://user-images.githubusercontent.com/71471355/113524060-609def80-9569-11eb-964a-e89bb395c9d8.png">
+<img width="438" alt="Screen Shot 2021-04-05 at 5 09 16 PM" src="https://user-images.githubusercontent.com/71471355/113524061-61cf1c80-9569-11eb-8752-3b6d045d775f.png">
 
 
 It is expected that the final Jupyter notebook must:
