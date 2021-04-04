@@ -1,14 +1,21 @@
-# Python API Homework - What's the Weather Like?
+# Weather Data Analysis
 
-## Background
+The purpose of this project is to visualize the weather of 500+ cities across the world of varying distance from the equator.
 
-Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
-
-Now, we know what you may be thinking: _"Duh. It gets hotter..."_
-
-But, if pressed, how would you **prove** it?
 
 ![Equator](Images/equatorsign.png)
+
+### Tools used in this Project
+1.  Python libraries:
+    - matplotlib.pyplot
+    - requests
+    - Pandas
+    - numpy
+    - time
+    - json
+    - scipy.stats
+2.  OpenWeather API
+3.  Jupyter Notebook
 
 ## WeatherPy
 
