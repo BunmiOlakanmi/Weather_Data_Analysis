@@ -45,7 +45,11 @@ After each plot, I added a sentence or two explaining what the code is and analy
 * Northern Hemisphere - Cloudiness (%) vs. Latitude
 * Southern Hemisphere - Cloudiness (%) vs. Latitude
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
-* Southern Hemisphere - Wind Speed (mph) vs. Latitude
+* Southern Hemisphere - Wind Speed (mph) vs. Latitude. Examples are shown below:
+
+<img width="425" alt="Screen Shot 2021-04-05 at 5 10 03 PM" src="https://user-images.githubusercontent.com/71471355/113524079-85926280-9569-11eb-8f3f-69e1a98dfc93.png">
+<img width="464" alt="Screen Shot 2021-04-05 at 5 10 25 PM" src="https://user-images.githubusercontent.com/71471355/113524080-86c38f80-9569-11eb-8231-630d84a09350.png">
+
 
 #### Instructions
 
